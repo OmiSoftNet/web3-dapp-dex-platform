@@ -27,7 +27,7 @@ We will help you with product implementation so that you can fully focus on mark
 - Microsoft Clarity (Marketing)
 
 <details>
-  <summary>Additional can be developed</summary>
+  <summary>Additional options can be developed</summary>
   <ul>
       <li>Farming</li>
       <li>Stacking</li>
@@ -118,6 +118,40 @@ Write to us, and we will answer all your questions and tell you all about your p
 - Blast
 - Polkadot
 - And others, write to us if the network you need is not in this list
+
+## Frequently asked questions
+
+<details>
+  <summary>Developing the Dex platform is a complex task that can cost hundreds of thousands of dollars. Our White Label solution can help you save a lot of money.</summary>
+  <p>We have three price offers:</p> 
+  <ul>
+      <li>Basic Package - $15,000 first payment and 0,5% of revenue. For these funds, the solution will be adapted for you and deployed on your server. Product maintenance will be free.</li>
+      <li>NoFee Package - $50,000 first payment and $2,000 per month for maintenance. Suitable if you have a large community and there will be many users from the start.</li>
+      <li>Special Offer - <b>$0</b>, If you have a large community, and you are looking for a technological partner in the share - this option may be useful for you. We provide CTO and team as our investment</li>  
+  </ul>
+</details>
+
+<details>
+  <summary>How long does it take to develop a DEX platform?</summary>
+  <p>Since this is a White-Label solution, its development and launch takes 3-4 times less time than when developing it from scratch.</p>
+  <p>You will receive a ready-made solution in less than a month.</p>
+  <p>But if you need some additional functionality for marketing or community - the development of this functionality will be estimated separately</p>
+</details>
+
+<details>
+  <summary>What kinds of networks does your Dex platform work with?</summary>
+  <p>All Ethereum-derived networks are currently supported, such as: Ethereum, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche, Celo and many others</p>
+</details>
+
+<details>
+  <summary>What are the main features of OmiSoft’s white-label Dex Platform?</summary>
+  <p>The key features of our Dex Platform include an easy-to-use UX and mobile-friendly interface, multichain support, token creation, a convenient admin panel for system management, and flexible rule setting.</p>
+</details>
+
+<details>
+  <summary>How much does product maintenance cost?</summary>
+  <p>For Basic Package maintenance is free, for NoFee Package maintenance costs $2,000 per month</p>
+</details>
 
 ## Summary
 
