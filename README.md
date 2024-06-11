@@ -95,6 +95,9 @@ We will help you with product implementation so that you can fully focus on mark
 | Custom design    | Only colors   | Yes            | Yes           |
 | Pricing          | $15000        | $50.000        | Contact Us    |
 
+> [!IMPORTANT]  
+> We are constantly adding new offers, and to be informed, [subscribe to our telegram](https://t.me/omisoftoffers) 🚴‍♂️🚴‍♂️🚴‍♂️
+
 ## Live Demo
 
 Want a personal demo of our DEX solution?
